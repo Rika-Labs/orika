@@ -23,7 +23,7 @@ base64 = "0.22.1"
 cpal = "0.17.3"
 host-protocol = { path = "../host-protocol" }
 image.workspace = true
-lol_html = "2.9"
+lol_html = "3.0"
 muda = { version = "0.19.1", features = ["common-controls-v6"] }
 native-updater = { path = "../native-updater" }
 native-pty = { path = "../native-pty" }
