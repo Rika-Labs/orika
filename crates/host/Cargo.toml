@@ -20,7 +20,7 @@ path = "src/main.rs"
 anyhow.workspace = true
 arboard.workspace = true
 base64 = "0.22.1"
-cpal = "0.17.3"
+cpal = "0.18.1"
 host-protocol = { path = "../host-protocol" }
 image.workspace = true
 lol_html = "2.9"
